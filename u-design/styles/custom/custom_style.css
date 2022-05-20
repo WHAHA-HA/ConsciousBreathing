@@ -1,0 +1,129 @@
+/* Custom Styles */
+body, #page-content-title .title-description { font-family:'Arial'; }
+body { font-size:12px; }
+h1, h2, h3, h4, h5, h6, #slogan, .single-post-categories { font-family:'Arial'; }
+#top-elements { height:130px; }
+#logo h1 a, #logo .site-name a { background:transparent url( http://localhost/anderson/wp-content/uploads/2014/06/logo.png ) no-repeat 0 100%; width:65px; height:100px; }       
+#slogan { 
+    top:67px;
+    left:157px;
+}
+#slogan { font-size:12px; }
+.js_on .cufon-on #slogan { font-size:14px; }
+#navigation-menu { font-family:'Arial'; }
+#navigation-menu { font-size:14px; }
+h1 {font-size:1.883em !important; }
+h2 {font-size:1.667em !important; }
+h3 {font-size:1.5em !important; }
+h4 {font-size:1.333em !important; }
+h5 {font-size:1.25em !important; }
+h6 {font-size:1.083em !important; }
+.js_on .cufon-on h1 {font-size:2.3em !important; }
+.js_on .cufon-on h2 {font-size:2.18em !important; }
+.js_on .cufon-on h3 {font-size:1.883em !important; }
+.js_on .cufon-on h4 {font-size:1.667em !important; }
+.js_on .cufon-on h5 {font-size:1.5em !important; }
+.js_on .cufon-on h6 {font-size:1.333em !important; }
+
+    
+#page-content-title #page-title h1,
+#page-content-title #page-title h2,
+#page-content-title #page-title h3,
+#page-content-title #page-title .single-post-categories {font-size:1.883em !important;}
+
+.js_on .cufon-on #page-content-title #page-title h1,
+.js_on .cufon-on #page-content-title #page-title h2,
+.js_on .cufon-on #page-content-title #page-title h3,
+.js_on .cufon-on #page-content-title #page-title .single-post-categories {font-size:2.3em !important;}
+
+.post-top h1, .post-top h2, .post-top h3 {font-size:1.5em !important; }
+.js_on .cufon-on .post-top h1, .js_on .cufon-on .post-top h2, .post-top h3 {font-size:1.883em !important; }
+
+#sidebarSubnav h3 {font-size:1.25em !important; }
+.js_on .cufon-on #sidebarSubnav h3 {font-size:1.5em !important; }
+
+.portfolio-items-wrapper h2 {font-size:1.333em !important; }
+.js_on .cufon-on .portfolio-items-wrapper h2 {font-size:1.667em !important; }
+h2.portfolio-single-column {font-size:1.667em !important; }
+.js_on .cufon-on h2.portfolio-single-column {font-size:2.18em !important; }
+
+h3.bottom-col-title {font-size:1.35em !important; }
+.js_on .cufon-on h3.bottom-col-title {font-size:1.6947em !important; }
+
+#gs-header #header-content { width:940px; }
+#c2-slider .slide-desc h2, #c2-slider .slide-desc { color:#333333; }
+#c2-slider .slide-desc h2 { font-size:1.8em !important; font-family:'Arial'; line-height:1.7; }
+#c2-slider .slide-desc p, #c2-slider .slide-desc ul { font-size:1.2em; line-height:1.7; }
+#c3-slider .sliding-text { color:#FFFFFF; font-size:1.2em; line-height:1.7; }
+
+
+    #navigation-menu ul.sf-menu { float:right; }
+    
+
+body, .post-top h2 a, .post-top h3 a, .posts-counter { color:#333333; }
+a, #isotope-options li a:hover, #isotope-options li a.selected { color:#FE5E08; }
+a:hover, .post-top h2 a:hover, .post-top h3 a:hover, #isotope-options li a { color:#333333; }
+.custom-formatting li.current_page_item > a, .custom-formatting li.current-menu-item > a, .custom-formatting li.current-cat > a, .custom-formatting li.current > a { color: #333333; }
+.custom-formatting li.current_page_item > a:hover, .custom-formatting li.current-menu-item > a:hover,.custom-formatting li.current-cat > a:hover, .custom-formatting li.current > a:hover { color: #FE5E08; }
+h1,h2,h3,h4,h5,h6 { color:#333333; }
+    #top-wrapper { background: url("http://localhost/anderson/wp-content/uploads/2014/06/head_logo_back.png") no-repeat scroll center top #FBFBFB; }
+#slogan, #top-elements .phone-number, #top-elements .social_media_title, #search input.blur, #search input.inputbox_focus { color:#999999; }
+#slogan{ color:#999999; }
+    #gs-header, #piecemaker-header, #c1-header, #c2-header, #c3-header, #rev-slider-header { background: url("http://localhost/anderson/wp-content/uploads/2014/06/slider-back.png") no-repeat scroll center top #FFFFFF; }
+#navigation-menu ul.sf-menu > li > a > span { color:#999999; }
+#navigation-menu ul.sf-menu > li.current-menu-item > a > span, #navigation-menu ul.sf-menu > li.current_page_item > a > span { color:#F95A09; }
+#navigation-menu ul.sf-menu > li.current-menu-item > a > span:hover, #navigation-menu ul.sf-menu > li.current_page_item > a > span:hover { color:#777777; }
+#navigation-menu ul.sf-menu > li > a:hover span { color:#777777; }
+#page-content-title #page-title h1, .js_on .cufon-on #page-content-title #page-title h1,
+#page-content-title #page-title h2, .js_on .cufon-on #page-content-title #page-title h2,
+#page-content-title #page-title h3, .js_on .cufon-on #page-content-title #page-title h3,
+#page-content-title #page-title .single-post-categories, .js_on .cufon-on #page-content-title #page-title .single-post-categories { color:#333333; }
+    #page-content-title { background-color:#FFFFFF; }
+    #before-content { background: url("../common-images/home-page-before-content-top.png") repeat-x scroll 0 0; }
+    #home-page-content, #page-content, #footer-bg { background: url("../common-images/home-page-content-top.png") repeat-x scroll 0 0; }
+    #home-page-content, #page-content, .no_title_section #page-content { background-color:#FFFFFF; }
+h3.before_cont_title { color:#333333; }
+#before-content { color:#333333; }
+    #before-content { background: url("http://localhost/anderson/wp-content/uploads/2014/06/breadcrum_1.png") no-repeat scroll center top #F8F8F8; }
+    #bottom-bg { background-color: #F5F5F5; }
+h3.bottom-col-title { color: #FE5E08; }
+#bottom, #bottom .textwidget, #bottom #wp-calendar, #bottom .posts-counter { color: #333333; }
+#bottom a { color: #3D6E97; }
+#bottom a:hover { color: #000000; }
+h3.bottom-col-title, #bottom ul.small-thumb li, #bottom .widget_recent_entries li a, #bottom .widget_categories li a, #bottom .widget_pages li a, #bottom .widget_subpages li a, #bottom .widget_archive li a, #bottom .widget_links li a, #bottom .widget_rss li a, #bottom .widget_meta li a, #bottom .loginform li a, #bottom .widget_nav_menu li a {
+    background: url("../style1/images/heading_underline.png") repeat-x scroll 0 100% transparent;
+}
+#bottom .widget_recent_comments li { background: url("../style1/images/heading_underline.png") repeat-x scroll 0 100% transparent; }
+    #footer-bg { background-color: #EAEAEA; }
+body { background-color: #EAEAEA; }
+#footer, #footer_text { color: #797979; }
+#footer a, #footer_text a { color: #3D6E97; }
+#footer a:hover, #footer_text a:hover { color: #000000; }
+
+
+ 
+@media screen and (min-width: 720px) {
+    .u-design-fixed-menu-on.fixed-menu #top-wrapper { background-color:#FBFBFB; }
+}
+    /* BEGIN: STICKY FOOTER CSS */
+    html, body { height: 100%; }
+    #wrapper-1 { min-height: 100%; }
+    .push {
+        overflow:auto;
+        padding-bottom: 44px; 
+    }
+    #footer-bg {
+        position: relative;
+        margin-top: -44px; /* negative value of footer height */
+        height: 44px;
+        clear:both;
+    }
+    /* Opera Fix */
+    body:before {
+        content:"";
+        height:100%;
+        float:left;
+        width:0;
+        margin-top:-32767px;
+    }
+    /* END: STICKY FOOTER CSS */

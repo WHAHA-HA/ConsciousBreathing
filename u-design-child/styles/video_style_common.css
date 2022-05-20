@@ -1,0 +1,82 @@
+ul.video-thumbs {
+	list-style:none;
+}
+ul.video-thumbs li.view {
+   width: 260px;
+   height: 144px;
+   margin: 10px;
+   float: left;
+/*   border: 10px solid #fff; */
+	border: 10px solid #f0f0f0;
+   overflow: hidden;
+   position: relative;
+   text-align: center;
+   -webkit-box-shadow: 1px 1px 2px #e6e6e6;
+   -moz-box-shadow: 1px 1px 2px #e6e6e6;
+   box-shadow: 1px 1px 2px #020202;
+   cursor: default;
+   background: #fff url('http://localhost/anderson/wp-content/themes/u-design-child/images/hover_bgimg.jpg') no-repeat center center;
+}
+ul.video-thumbs li.view .mask, ul.video-thumbs li.view .content {
+   width: 260px;
+   height: 144px;
+   position: absolute;
+   overflow: hidden;
+   top: 0;
+   left: 0;
+}
+ul.video-thumbs li.view .mask a{
+   width: auto;
+   height: auto;
+   position: absolute;
+   overflow: hidden;
+   bottom:10%;
+   right:10%;
+}
+ul.video-thumbs li.view .mask span.video_duration 
+{
+    position:absolute;
+    bottom:10%;
+    left:10%;
+    color:#ffffff;
+    
+}
+ul.video-thumbs li.view img {
+   display: block;
+   position: relative;
+}
+ul.video-thumbs li.view h2 {
+   text-transform: uppercase;
+   color: #fff;
+   text-align: center;
+   position: relative;
+   font-size: 17px;
+   padding: 10px;
+   background: rgba(0, 0, 0, 0.8);
+   margin: 20px 0 0 0;
+}
+ul.video-thumbs li.view p {
+   font-family: Georgia, serif;
+   font-style: italic;
+   font-size: 14px;
+   position: relative;
+   color: #fff;
+   padding: 10px 20px 20px;
+   text-align: center;
+}
+ul.video-thumbs li.view a.info {
+   display: inline-block;
+   text-decoration: none;
+   padding: 7px 14px;
+   background: #000;
+   color: #fff;
+   text-transform: uppercase;
+   -webkit-box-shadow: 0 0 1px #000;
+   -moz-box-shadow: 0 0 1px #000;
+   box-shadow: 0 0 1px #000;
+}
+ul.video-thumbs li.view a.info: hover {
+   -webkit-box-shadow: 0 0 5px #000;
+   -moz-box-shadow: 0 0 5px #000;
+   box-shadow: 0 0 5px #000;
+}
